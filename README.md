@@ -58,10 +58,10 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/joryjack/doom-admin-web.git
+git clone https://github.com/joryjack/eatoldstore-admin-web.git
 
 # 进入项目目录
-cd doom-admin-web
+cd eatoldstore-admin-web
 
 # 安装依赖
 npm install
