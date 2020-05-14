@@ -2,7 +2,7 @@
   "name": "doom-admin-web",
   "version": "2.4.0",
   "description": "DOOM-ADMIN 前端源码",
-  "author": "Zheng Jie",
+  "author": "jory",
   "license": "Apache-2.0",
   "scripts": {
     "dev": "vue-cli-service serve",
@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elunez/doom-admin-web.git"
+    "url": "https://github.com/joryjack/doom-admin-web.git"
   },
   "bugs": {
-    "url": "https://github.com/elunez/doom-admin/issues"
+    "url": "https://github.com/joryjack/doom-admin/issues"
   },
   "dependencies": {
     "@riophae/vue-treeselect": "0.1.0",
