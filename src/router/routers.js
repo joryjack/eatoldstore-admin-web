@@ -10,6 +10,11 @@ export const constantRouterMap = [
     component: () => import('@/views/login'),
     hidden: true
   },
+  { path: '/verityorder',
+    meta: { title: '核销订单', noCache: true },
+    component: () => import('@/views/mall/thirdorder/verityorder'),
+    hidden: true
+  },
   {
     path: '/404',
     component: () => import('@/views/features/404'),
